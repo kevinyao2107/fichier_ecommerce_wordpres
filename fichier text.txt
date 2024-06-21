@@ -1,0 +1,46 @@
+maichimp form
+
+<p>
+	<label>Email address:</label> 
+		<input type="email" name="EMAIL" placeholder="Votre addrese email" required />
+</p>
+
+<p>
+	<input type="submit" value="S'abonner" />
+
+
+footer 2
+
+<ul>
+<li><a href="#">Retours de produits</a></li>
+<li><a href="#">Terms & Conditions</a></li>
+<li><a href="https://academieyao.com/contact-us/">Contactez nous</a></li>
+<li><a href="#">Support Center</a></li>
+<li><a href="#">Politique de confidentialité</a></li>
+<li><a href="#">Méthodes de paiement</a></li>
+</ul>
+
+footer 3
+
+<ul>
+<li><a href="#">Smartwatches & Fitness</a></li><li><a href="#">Cameras & Photos</a></li>
+<li><a href="#">Laptop & Computers</a></li>
+<li><a href="#">Phones & Tablets</a></li>
+<li><a href="#">Television & Video</a></li>
+<li><a href="#">Consumer Electronics</a></li>
+</ul>
+
+footer 4
+<ul>
+<li><a href="#">Donnez 50 €. Obtenez 50 €.</a></li>
+<li><a href="#">Articles rappelés</a></li>
+<li><a href="#">Suivi de commande</a></li>
+<li><a href="#">Gift Receipt</a></li>
+<li><a href="#">Comment acheter</a></li>
+<li><a href="#">Affiliate Program</a></li>
+</ul>
+
+footer 5
+
+Téléchargez notre application et bénéficiez d'une remise de 20 % pendant un an entier.
+<a href="#"><img class="alignnone size-full wp-image-1017" src="http://digitek.themejr.net/home2/wp-content/uploads/sites/3/2023/05/app-1.png" alt="" width="292" height="59" /></a>
